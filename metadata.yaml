@@ -1,0 +1,36 @@
+_repo: Biography-of-a-Slave-Being-the-Experiences-of-Rev.-Charles-Thompson-a-Preacher-of-the-United-B__9941
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thompson, Charles
+    birthdate: 1833
+    gutenberg_agent_id: '3212'
+    url: http://www.gutenberg.org/2009/agents/3212
+description: ''
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slaves'' writings, American -- Mississippi'
+- !lcsh 'Plantation life -- Mississippi -- History -- 19th century'
+- !lcsh 'Slaves -- Mississippi -- Social life and customs'
+- !lcsh 'African Americans -- Mississippi -- Religion'
+- !lcsh 'African Americans -- Mississippi -- Biography'
+- !lcsh 'Church of the United Brethren in Christ (1800-1889) -- Clergy -- Biography'
+- !lcsh 'Slaves -- Mississippi -- Biography'
+- !lcsh 'Thompson, Charles, b. 1833'
+- !lcc 'E300'
+- !lcsh 'African American clergy -- Mississippi -- Biography'
+- !lcsh 'Slavery -- Mississippi -- History'
+- !lcsh 'Fugitive slaves -- Mississippi -- Biography'
+- GITenberg
+title: "Biography of a Slave, Being the Experiences of Rev. Charles Thompson, a Preacher\
+  \ of the United Brethren Church, While a Slave in the South.\r\nTogether with Startling\
+  \ Occurrences Incidental to Slave Life."
+url: http://www.gutenberg.org/ebooks/9941
