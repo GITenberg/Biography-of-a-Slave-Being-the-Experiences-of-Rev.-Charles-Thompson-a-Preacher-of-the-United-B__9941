@@ -1,5 +1,8 @@
 _repo: Biography-of-a-Slave-Being-the-Experiences-of-Rev.-Charles-Thompson-a-Preacher-of-the-United-B__9941
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thompson, Charles
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '3212'
     url: http://www.gutenberg.org/2009/agents/3212
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9941#Biography-of-a-Slave-Being-the-Experiences-of-Rev.-Charles-Thompson-a-Preacher-of-the-United-B_
 gutenberg_bookshelf: African American Writers
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
